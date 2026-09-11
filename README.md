@@ -35,7 +35,9 @@ The goal is to master algorithmic patterns, data structures, and write clean, in
 
 | # | Problem | Topic | Solution | Difficulty |
 |---|---|---|:---:|:---:|
-*Solutions are added progressively as problems are solved.*
+| 1 | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | Arrays & Hashing | [contains_duplicate.py](./01-arrays-and-hashing/contains_duplicate.py) | Easy |
+| 2 | [Valid Anagram](https://neetcode.io/problems/is-anagram) | Arrays & Hashing | [valid_anagram.py](./01-arrays-and-hashing/valid_anagram.py) | Easy |
+| 3 | [Two Sum](https://neetcode.io/problems/two-integer-sum) | Arrays & Hashing | [two_sum.py](./01-arrays-and-hashing/two_sum.py) | Easy |
 
 ---
 
