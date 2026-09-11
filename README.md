@@ -38,6 +38,7 @@ The goal is to master algorithmic patterns, data structures, and write clean, in
 | 1 | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | Arrays & Hashing | [contains_duplicate.py](./01-arrays-and-hashing/contains_duplicate.py) | Easy |
 | 2 | [Valid Anagram](https://neetcode.io/problems/is-anagram) | Arrays & Hashing | [valid_anagram.py](./01-arrays-and-hashing/valid_anagram.py) | Easy |
 | 3 | [Two Sum](https://neetcode.io/problems/two-integer-sum) | Arrays & Hashing | [two_sum.py](./01-arrays-and-hashing/two_sum.py) | Easy |
+| 4 | [Group Anagrams](https://neetcode.io/problems/anagram-groups) | Arrays & Hashing | [group_anagrams.py](./01-arrays-and-hashing/group_anagrams.py) | Medium |
 
 ---
 
@@ -46,6 +47,7 @@ The goal is to master algorithmic patterns, data structures, and write clean, in
 Clone the repository and run any solution file directly using Python:
 
 ```bash
-git clone [https://github.com/](https://github.com/)<kullanici-adin>/neetcode-150.git
+git clone [https://github.com/](https://github.com/)altay-aksoy/neetcode-150.git
 cd neetcode-150
 py 01-arrays-and-hashing/<solution_file>.py
+```
