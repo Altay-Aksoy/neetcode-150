@@ -47,7 +47,10 @@ The goal is to master algorithmic patterns, data structures, and write clean, in
 Clone the repository and run any solution file directly using Python:
 
 ```bash
-git clone [https://github.com/](https://github.com/)altay-aksoy/neetcode-150.git
+# Clone the repository
+git clone https://github.com/Altay-Aksoy/neetcode-150.git
 cd neetcode-150
-py 01-arrays-and-hashing/<solution_file>.py
+
+# Run any solution (e.g. Group Anagrams)
+python 01-arrays-and-hashing/group_anagrams.py
 ```
