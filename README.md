@@ -39,7 +39,7 @@ The goal is to master algorithmic patterns, data structures, and write clean, in
 | 2 | [Valid Anagram](https://neetcode.io/problems/is-anagram) | Arrays & Hashing | [valid_anagram.py](./01-arrays-and-hashing/valid_anagram.py) | Easy |
 | 3 | [Two Sum](https://neetcode.io/problems/two-integer-sum) | Arrays & Hashing | [two_sum.py](./01-arrays-and-hashing/two_sum.py) | Easy |
 | 4 | [Group Anagrams](https://neetcode.io/problems/anagram-groups) | Arrays & Hashing | [group_anagrams.py](./01-arrays-and-hashing/group_anagrams.py) | Medium |
-
+| 5 | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list) | Arrays & Hashing | [top_k_frequent_elements.py](./01-arrays-and-hashing/top_k_frequent_elements.py) | Medium |
 ---
 
 ### 🚀 Running Locally
