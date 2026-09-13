@@ -41,6 +41,7 @@ The goal is to master algorithmic patterns, data structures, and write clean, in
 | 4 | [Group Anagrams](https://neetcode.io/problems/anagram-groups) | Arrays & Hashing | [group_anagrams.py](./01-arrays-and-hashing/group_anagrams.py) | Medium |
 | 5 | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list) | Arrays & Hashing | [top_k_frequent_elements.py](./01-arrays-and-hashing/top_k_frequent_elements.py) | Medium |
 | 6 | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode) | Arrays & Hashing | [encode_and_decode_strings.py](./01-arrays-and-hashing/encode_and_decode_strings.py) | Medium |
+| 7 | [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self) | Arrays & Hashing | [product_of_array_except_self.py](./01-arrays-and-hashing/product_of_array_except_self.py) | Medium |
 
 ---
 
