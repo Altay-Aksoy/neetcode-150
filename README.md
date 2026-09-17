@@ -44,6 +44,7 @@ The goal is to master algorithmic patterns, data structures, and write clean, in
 | 7 | [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self) | Arrays & Hashing | [product_of_array_except_self.py](./01-arrays-and-hashing/product_of_array_except_self.py) | Medium |
 | 8 | [Valid Sudoku](https://neetcode.io/problems/valid-sudoku) | Arrays & Hashing | [valid_sudoku.py](./01-arrays-and-hashing/valid_sudoku.py) | Medium |
 | 9 | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence) | Arrays & Hashing | [longest_consecutive_sequence.py](./01-arrays-and-hashing/longest_consecutive_sequence.py) | Medium |
+| 10 | [Valid Palindrome](https://neetcode.io/problems/is-palindrome) | Two Pointers | [valid_palindrome.py](./02-two-pointers/valid_palindrome.py) | Easy |
 
 ---
 
