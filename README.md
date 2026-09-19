@@ -47,6 +47,7 @@ The goal is to master algorithmic patterns, data structures, and write clean, in
 | 10 | [Valid Palindrome](https://neetcode.io/problems/is-palindrome) | Two Pointers | [valid_palindrome.py](./02-two-pointers/valid_palindrome.py) | Easy |
 | 11 | [Two Integer Sum II](https://neetcode.io/problems/two-integer-sum-ii) | Two Pointers | [two_sum_ii_input_array_is_sorted.py](./02-two-pointers/two_sum_ii_input_array_is_sorted.py) | Medium |
 | 12 | [3Sum](https://neetcode.io/problems/three-integer-sum) | Two Pointers | [three_sum.py](./02-two-pointers/three_sum.py) | Medium |
+| 13 | [Container With Most Water](https://neetcode.io/problems/max-water-container) | Two Pointers | [container_with_most_water.py](./02-two-pointers/container_with_most_water.py) | Medium |
 
 ---
 
